@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25 Apr 2024, 4:34:09 pm
+    Author     : dhruv
+*/
+
+.primary-background{
+    background-color: #161F6D;
+/*    background-image:url("pics/bg.jpg");
+     background-size: cover;
+     background-attachment: fixed;*/
+    /*rgb(134, 70, 156)*/
+
+
+}
+.secondary-background{
+   background-color: black; 
+     /*background-image:url("pics/bg.jpg");*/
+}
+
